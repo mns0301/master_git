@@ -1,2 +1,3 @@
-# master_git
-git lecture
+# GITHUB PRACTICE REPOSITORY #
+
+* modified date : 2025-11-25
